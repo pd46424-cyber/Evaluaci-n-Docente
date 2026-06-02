@@ -1,0 +1,6 @@
+{
+  "name": "Evaluación de Docentes",
+  "description": "Sistema moderno y visual de evaluación docente con reportes en tiempo real e integración con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
